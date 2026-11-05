@@ -6,10 +6,12 @@
 
 | 版本 | 说明 | 串流端（PC） | 头显端（APK） |
 |---|---|---|---|
-| **v20.14.1-cn** | 官方**最新正式版**，稳定，推荐日常使用 | 见 Releases | 见 Releases |
-| **v21.0.0-dev14-cn** | 官方开发中的 v21（nightly），功能新但可能有 bug | 见 Releases | 见 Releases |
+| **v20.14.1-cn** | 官方**最新正式版**，稳定，推荐日常使用 | [串流端](https://github.com/hhhbwc/alvr_CN/releases/download/v20.14.1-cn/alvr_streamer_windows_zh-v20.14.1.zip) | [APK](https://github.com/hhhbwc/alvr_CN/releases/download/v20.14.1-cn/alvr_client_android_zh-v20.14.1.apk) |
+| **v21.0.0-dev14-cn** | 官方开发中的 v21（nightly），功能新但可能有 bug | [串流端](https://github.com/hhhbwc/alvr_CN/releases/download/v21.0.0-dev14-cn/alvr_streamer_windows_zh-v21.0.0-dev14.zip) | [APK](https://github.com/hhhbwc/alvr_CN/releases/download/v21.0.0-dev14-cn/alvr_client_android_zh-v21.0.0-dev14.apk) |
 
 > ⚠️ **串流端和头显端必须用同一版本**。v20 的串流端配 v21 的客户端会握手失败（ALVR 的协议绑定大版本号）。
+
+![设置页](screenshots/截图-设置页.png)
 
 ## 安装
 
